@@ -1,0 +1,11 @@
+{
+    "AppleAquaColorVariant": "AppleAquaColorVariant = 1;\n",
+    "AppleInterfaceStyle": "AppleInterfaceStyle = Dark;\n",
+    "ButtonColours": "DefaultBlue= 0;\n",
+    "Botones_Menu_Inicio_Derecha": true,
+    "Iconos_Medianos": true,
+    "Funcion_Cmd_Shift_8_zoom":"--> defaults write com.apple.universalaccess closeViewHotkeysEnabled -bool true"
+    ,
+
+    "Fondo_Pantalla": "https://www.smartresize.com/id/hd-wallpaper-desktop-ziump/download"
+}
