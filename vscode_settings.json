@@ -1,0 +1,50 @@
+{
+    "workbench.colorTheme": "New Darcula",
+    "liveshare.authenticationProvider": "GitHub",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "tabnine.experimentalAutoImports": true,
+    "editor.minimap.enabled": false,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "workbench.startupEditor": "none",
+    "editor.inlineSuggest.enabled": true,
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "julia.symbolCacheDownload": true,
+    "editor.fontSize": 17,
+    "editor.fontLigatures": false,
+    "C_Cpp.debugShortcut": false,
+    "clang.cxxflags": [
+        "-std=c++17",
+        "-Wno-c++11-extensions" // Deshabilita las advertencias relacionadas con C++11
+    ],
+    "CppHelper.FindReplaceStrings": [],
+    "C_Cpp.default.cppStandard": "c++17",
+    "cpp.creator.setPath": "",
+    "C_Cpp.default.cStandard": "gnu17",
+    "C_Cpp.default.intelliSenseMode": "macos-clang-arm64",
+    "C_Cpp.default.customConfigurationVariables": {
+        "C_Cpp.clang_format_fallbackStyle": "none",
+        "C_Cpp.default.intelliSenseMode": "${default}"
+    },
+    "C_Cpp.autocomplete": "disabled",
+    "C_Cpp.configurationWarnings": "disabled",
+    "C_Cpp.default.compilerPath": "/Library/Developer/CommandLineTools/usr/bin",
+    "C_Cpp.default.includePath": [
+        "/Library/Developer/CommandLineTools/usr/bin"
+    ],
+    "cmake.showOptionsMovedNotification": false,
+    "clangd.detectExtensionConflicts": false,
+    "window.zoomLevel": -1,
+    "latex-workshop.intellisense.biblatexJSON.replace": {
+    
+    },
+    "clangd.arguments": [
+        "-std=c++17"
+    ],
+    "clangd.checkUpdates": true
+}
