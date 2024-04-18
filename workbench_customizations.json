@@ -1,0 +1,40 @@
+{
+    "tabnine.experimentalAutoImports": true,   
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#24292f",
+        "titleBar.activeForeground": "#00ffe1",
+        "titleBar.border": "#1f2428",
+        "activityBar.foreground": "#00ffe1",
+        "activityBar.inactiveForeground": "#6b737d",
+        "activityBar.background": "#24292f",
+        "activityBar.activeBackground": "#1f2428",
+        "activityBar.border": "#1f2428",
+        "activityBar.activeBorder": "#ff8585",
+        "sideBar.background": "#202529",
+        "sideBar.foreground": "#00ffe1",
+        "sideBarSectionHeader.background": "#005c51",
+        "sideBarSectionHeader.foreground": "#caced4",
+        "sideBar.border": "#202529",
+        "list.activeSelectionBackground": "#00473f",
+        "list.activeSelectionForeground": "#ffffff",
+        "statusBar.foreground": "#00ffe1",
+        "statusBar.background": "#24292f",
+        "statusBar.border": "#242930",
+        "panel.border": "#24292f",
+        "panelTitle.activeBorder": "#ff8585",
+        "panelTitle.activeForeground": "#00ffe1",
+        "panelTitle.inactiveForeground": "#656b75",
+        "terminalCursor.foreground": "#00ffe1",
+        "terminal.foreground": "#00ffe1",
+        "editorLineNumber.foreground": "#00ffe1",
+        "editorCursor.foreground": "#00ffe1"
+    },
+    "workbench.sideBar.location": "right",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "GitHub Dark",
+    "cmake.showOptionsMovedNotification": false,
+    "latex-workshop.intellisense.bibtexJSON.replace": {
+
+    }
+}
