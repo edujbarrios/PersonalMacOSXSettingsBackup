@@ -17,3 +17,7 @@ Feel free to use these files to check my own IDE configurations and presets
 At my windows device, I'm Using This Tool:
 
 https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit
+
+On iMac Device I'm also using this tool:
+
+Accesibility->Zoom->Activate Cmd-Opt+8 (-) to minimize (0) to maximize
