@@ -1,4 +1,4 @@
-# My Personal MacOS X Settings Backup 🖥️🔧
+# My Personal Settings Backup 🖥️🔧
 
 This repository contains a "Public Backup" of my personal settings used on my MacOS X device. It's designed to easily adapt a new device to start programming with my own personal workflow. 
 
@@ -12,3 +12,8 @@ The settings include various configurations and presets that I have customized o
 - And more...
 
 Feel free to use these files to check my own IDE configurations and presets
+```
+
+At my windows device, I'm Using This Tool:
+
+https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit
